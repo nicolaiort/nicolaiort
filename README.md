@@ -4,7 +4,7 @@ Hi, I'm Nicolai - aka Niggl
 
 ### About me
 I'm the Co-Founder of [@ODIT.Services](https://odit.services) - a software agency focusing on cutting-edge technologies in webdevelopment.<br>
-I'm also currently studying computer sciences (Batchelor of science) at the "Technische Hochschule Nürnberg" alongside my apprenticeship at DATEV.
+I'm also currently studying computer sciences (Bachelor of science) at the "Technische Hochschule Nürnberg" alongside my apprenticeship at DATEV.
 
 ### Socials
 
